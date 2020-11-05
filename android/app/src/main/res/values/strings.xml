@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">testNotif</string>
+    <string name="title_activity_main">testNotif</string>
+    <string name="package_name">com.formation.test</string>
+    <string name="custom_url_scheme">com.formation.test</string>
+</resources>
